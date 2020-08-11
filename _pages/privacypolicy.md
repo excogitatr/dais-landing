@@ -1,3 +1,12 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
+**Last updated**  
+August 11 2020
+
 # Privacy Policy for Dais Live
 
 At Dais, accessible from https://dais.live, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Dais and how we use it.
